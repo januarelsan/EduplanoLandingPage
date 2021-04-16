@@ -9,8 +9,9 @@
             <!--baseline-->
             <div class="col-lg-6 col-md-6">
                 <div class="infotechno-hero-text  wow move-up">
-                    <h6>Curriculum & Instructional Developer</h6>
-                    <h1 class="font-weight--reguler mb-15">Facilitate All <br>  Local IT-related Service Providers  </h1>
+                    <h6>Curriculum & Instructional Developer</h6>                    
+
+                    <h1 class="font-weight--reguler mb-15">Buat Pembelajaran <br>  Lebih Bermakna & Tepat Sasaran  </h1>
                         <p>Highly Tailored IT Design, Management & Support Services. </p>
                         <div class="hero-button  mt-30">
                             <a href="#" class="ht-btn ht-btn-md">Get details</a>

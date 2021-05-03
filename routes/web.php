@@ -14,21 +14,26 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    return "Terminated by Developer";
     return view('index');
 })->name('index');
 
 Route::get('/blog', function () {
+    return "Terminated by Developer";
     return view('blog');
 })->name('blog');
 
 Route::get('/blog/detail', function () {
+    return "Terminated by Developer";
     return view('blog-detail');
 })->name('blog.detail');
 
 Route::get('/case/studies', function () {
+    return "Terminated by Developer";
     return view('case');
 })->name('case');
 
 Route::get('/contact', function () {
+    return "Terminated by Developer";
     return view('contact');
 })->name('contact');
